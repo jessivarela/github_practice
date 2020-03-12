@@ -2,14 +2,7 @@
 title: "More complex RMardown example"
 author: "Joseph Casillas"
 date: "`r Sys.Date()`"
-output: 
-  html_document: 
-    highlight: kate
-    number_sections: yes
-    theme: spacelab
-    toc: true
-    toc_float:
-      toc_collapsed: true
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
